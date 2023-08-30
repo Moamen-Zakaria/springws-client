@@ -1,0 +1,11 @@
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\message\EmployeesPort.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\SpringwsdemoApplication.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\controller\EmployeesController.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\configuration\JaxbConfig.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\message\EmployeesPortService.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\message\ObjectFactory.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\integration\SoapClient.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\message\GetEmployeeResponse.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\message\GetAllEmployeesRequest.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\message\Employee.java
+D:\Watheeq\One\demo\springws-client\src\main\java\com\kn\springwsdemo\message\Department.java

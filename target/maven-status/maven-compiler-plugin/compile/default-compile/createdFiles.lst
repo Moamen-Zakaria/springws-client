@@ -1,0 +1,13 @@
+com\kn\springwsdemo\message\Employee.class
+com\kn\springwsdemo\message\GetAllEmployeesRequest$GetAllEmployeesRequestBuilder.class
+com\kn\springwsdemo\message\Department.class
+com\kn\springwsdemo\SpringwsdemoApplication.class
+com\kn\springwsdemo\message\GetAllEmployeesRequest.class
+com\kn\springwsdemo\message\EmployeesPort.class
+com\kn\springwsdemo\controller\EmployeesController.class
+com\kn\springwsdemo\configuration\JaxbConfig.class
+com\kn\springwsdemo\message\Employee$Departments.class
+com\kn\springwsdemo\message\GetEmployeeResponse.class
+com\kn\springwsdemo\message\EmployeesPortService.class
+com\kn\springwsdemo\integration\SoapClient.class
+com\kn\springwsdemo\message\ObjectFactory.class

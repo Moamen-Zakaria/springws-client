@@ -1,0 +1,8 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <getAllEmployeesRequest xmlns:ns3="http://www.kn.com/springsoap">
+            <ns3:department>departmentName</ns3:department>
+        </getAllEmployeesRequest>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
